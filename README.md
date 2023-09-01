@@ -1,16 +1,16 @@
-### Hi there 👋
+### BEM VINDOS AO MEU PERFIL :)
 
-<!--
-**amandarodrigues08/amandarodrigues08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É AMANDA 
+- ESTOU ESTUDANDO NA ALURA
+- ESTOU DESENVOLVENDO NA LINGUAGEM JAVA
+- UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
 
-Here are some ideas to get you started:
+  ## VOCE PODE ENTRAR EM CONTATO COMIGO 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  amanda.rodrigues.santos08@escola.pr.gov.br
+  
+
+
+
+
+
